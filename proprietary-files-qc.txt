@@ -1049,7 +1049,7 @@ vendor/lib64/vendor.qti.hardware.radio.am@1.0.so
 vendor/radio/qcril_database/qcril.db
 
 # Telephony (qti-telephony-common) - from DRG - QKQ1.190828.002
-product/framework/qti-telephony-common.jar|74adbf98e89531ac385ab5c4cea3c2549a0d24b0
+product/framework/qti-telephony-common.jar|fab286c82f3147a9cfe85452cd95ee77c603f78b
 
 # Radio - IMS
 -priv-app/ims/ims.apk:product/priv-app/ims/ims.apk
